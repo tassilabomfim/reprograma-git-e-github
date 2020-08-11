@@ -2,6 +2,8 @@
 
 ### Git
 
+![GitHub Logo](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
+
 O **Git** é um sistema de controle de versão que, pela sua estrutura interna, é
 uma 	máquina do tempo extremamente rápida e é um robô de integração bem
 competente.
